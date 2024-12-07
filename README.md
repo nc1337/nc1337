@@ -1,8 +1,6 @@
 ### Hi there. I am Nitin Chaudhary👋
 
 I am a neo-vimmer learning new technologies with minimal mouse interactions.
-- 🔭 I’m currently working on my new portfolio website using react.
-- 🌱 I’m currently learning about the LLMs and how they work.
 <!--
 **nc1337/nc1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
